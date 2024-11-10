@@ -28,6 +28,10 @@ The Rotating Image Gallery project is designed to display a set of images in a r
 - **HTML5:** Structuring the image elements and layout.
 - **CSS3:** Styling and implementing rotation effects using CSS animations.
 - **JavaScript:** Controlling rotation speed, direction, and interactivity.
+## Demo
+
+View the live demo here: [GitHub Pages Demo](https://brahimazzaf.github.io/rotating-image-gallery/)
+
 
 ## Installation
 
@@ -35,4 +39,9 @@ To view or modify the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rotating-image-gallery.git
+   git clone [GITHUB](https://github.com/BrahimAzzaf/rotating-image-gallery.git)
+
+2. Navigate to the project directory:
+   cd rotating-image-gallery
+
+3. Open index.html in your browser to view the gallery.

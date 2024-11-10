@@ -32,3 +32,5 @@ function updateGallery() {
 
 // Start the automatic gallery update
 updateGallery();
+
+
